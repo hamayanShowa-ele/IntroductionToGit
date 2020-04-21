@@ -26,4 +26,6 @@ Gitを導入ドキュメント
 
 １２．forkGitHubRepository.txt
 
+１３．branchRepository.txt
+
 

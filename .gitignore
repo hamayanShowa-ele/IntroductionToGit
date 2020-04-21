@@ -1,0 +1,6 @@
+# git ignore file
+# designed by hamayan.
+
+# not need ignored.txt
+ignored.txt
+

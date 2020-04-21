@@ -18,4 +18,6 @@ Gitを導入ドキュメント
 
 ８．makeGitHubRepository.txt
 
+９．deleteGitHubRepository.txt
+
 

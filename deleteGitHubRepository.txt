@@ -1,0 +1,17 @@
+GitHubリポジトリを削除する
+
+(1) GitHubに行き、Sign inして自分のページを開く。
+https://github.com/
+
+(2) makeGitHubRepository.txtで作成したリポジトリ、この場合はsampleのページを開く
+
+(3) Settingタブを開く
+「Code」、「Issues」、「Pull requests」と並んでいるタブの一番右端に「Settings」
+タブがあるので、そのタブを開く。
+
+(4) Danger Zone
+ページの一番下に、この操作を行うと結構ヤバい目に合うかもしれない項目が「Danger Zone」
+として羅列されている。
+
+(5) Delete this repository
+さあ、思い切って押してみよう。

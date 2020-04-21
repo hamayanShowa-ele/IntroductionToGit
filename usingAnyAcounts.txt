@@ -33,7 +33,7 @@ SourceTree自体に複数アカウントを使い分ける機能は無いが、.
 [remote "origin"]
 	url = https://github.com/githubアカウント/IntroductionToGit.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
-	pushurl = https://githubアカウント:githubログインパスワード@github.com/chobichan/IntroductionToGit.git
+	pushurl = https://githubアカウント:githubログインパスワード@github.com/githubアカウント/IntroductionToGit.git
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master

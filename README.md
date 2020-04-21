@@ -16,4 +16,6 @@ Gitを導入ドキュメント
 
 ７．gitHubAccount.txt
 
+８．makeGitHubRepository.txt
+
 

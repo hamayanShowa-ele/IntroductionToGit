@@ -1,0 +1,27 @@
+GitHubリポジトリを作る
+
+本当は先にGitHubアカウント作成(gitHubAccount.txt)、そしてこの手順を実行しておい
+た方が色々良かったかもしれない。アハハハハ
+
+(1) GitHubに行き、Sign inして自分のページを開く。
+https://github.com/
+
+(2) Sign inした時にページの内容がどうなっているのかイマイチ不明だが、ページの
+何処かに「Repositories」と「New」と書かれたボタンがそれぞれ近いところに配置され
+ている筈である。
+
+この「New」をクリックする。
+
+(3) 必要事項を記入する
+「Repository name」で作成するリポジトリ名、例えば「sample」を、「Description」
+で説明を、「Public/Private」チェックボックスでどちらかを、
+「Initialize this repository with a README」のチェックボックスにチェックを入れて、
+一番下の「Create repository」をクリックする。
+
+(4) README.mdの編集
+このリポジトリの説明に使用するREADME.mdに必要な事項を記述する。
+ブラウザのページ上にREADME.mdの編集を行う鉛筆マークが有るのでそれをクリックすれば
+編集用のエディタページが開く。
+
+(5) 編集完了後は、ページ一番下の「Commit changes」ボタンをクリックする。
+

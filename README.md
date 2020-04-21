@@ -12,3 +12,5 @@ Gitを導入ドキュメント
 
 ５．gitIgnore.txt
 
+６．usingAnyAcounts.txt
+

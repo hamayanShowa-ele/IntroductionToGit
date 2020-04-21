@@ -1,0 +1,48 @@
+作ったGitHubリポジトリをクローンする
+
+(1) GitHubに行き、Sign inして自分のページを開く。
+https://github.com/
+
+(2) makeGitHubRepository.txtで作成したリポジトリ、この場合はsampleのページを開く
+
+(3) Clone or download
+ページ右側に緑色のボタンで「Clone or download」が有るので、それをクリックする。
+
+(4) Clone with HTTPS
+開いたウインドウの真ん中にこのリポジトリのurlが記載されている。右のボタンを
+クリックすればその内容がクリップボードにコピーされる。
+リポジトリがsampleの場合は以下の様になる。
+
+https://github.com/hamayanShowa-ele/sample.git
+
+(5) ローカルにリポジトリを用意
+letsMakeRepository.txtの手順(1)～(2)でローカルのPC上に適当なフォルダー、例えば
+sampleを作成し、SourceTreeを起動する。すでに起動しているならフォルダーのみ
+作成。
+
+(6) リポジトリの作成
+FILEメニューの下のタブボタンで「＋」ボタンを押すとNew Tabが作成される。
+
+(7) クローン
+「Clone」ボタンをクリックする。
+
+(8) 必要事項を入力
+「元のパス/URL」に、先のGitHubリポジトリのurl、先の例でいえば
+
+https://github.com/hamayanShowa-ele/sample.git
+
+を貼り付ける。
+
+「保存先のパス」は(5)で作成したフォルダーを指定する。
+
+「名前」は適宜入力する。「ルート」はこのまま。
+
+(9) クローンを生成
+必要事項を入力したら一番下の「クローン」ボタンをクリックする。
+
+(10) クローンを確認
+SourceTreeにクローンしたリポジトリの内容が展開され、sampleフォルダーにREADME.md
+と.gitフォルダーが作成されている。
+
+
+あとは、letsCommit.txt以降の作業を行う。

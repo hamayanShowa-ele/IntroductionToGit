@@ -20,4 +20,5 @@ Gitを導入ドキュメント
 
 ９．deleteGitHubRepository.txt
 
+１０．cloneGitHubRepository.txt
 

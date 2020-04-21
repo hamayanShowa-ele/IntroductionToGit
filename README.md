@@ -14,3 +14,6 @@ Gitを導入ドキュメント
 
 ６．usingAnyAcounts.txt
 
+７．gitHubAccount.txt
+
+

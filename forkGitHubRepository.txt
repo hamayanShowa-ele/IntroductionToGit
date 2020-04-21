@@ -1,0 +1,32 @@
+他人のGitHubリポジトリをフォークしてクローン
+
+ここからは共同作業の手順に入る。
+例えばこのドキュメントのリポジトリ
+
+https://github.com/hamayanShowa-ele/IntroductionToGit
+
+のファイルは挿絵を入れるのが面倒なので全てテキストファイルで作成されている。
+もし共同作業としてこのドキュメントに図等を挿入してhtmlファイルとかパワポとか
+ワードとかのドキュメントを作成する場合の手順となる。
+
+フォークは、他人のGitHubリポジトリから自分GitHubリポジトリに丸っとコピーしてくる
+作業。
+
+クローンはそのリポジトリをローカルに落としてくる作業(cloneGitHubRepository.txtで既出)
+となる。
+
+(1) 自分のアカウントでGitHubにSign inする。
+
+(2) https://github.com/hamayanShowa-ele/IntroductionToGit
+に移動する。
+
+(3) フォークする
+ページ右上辺りにForkボタンが有るので、そのボタンをクリックする。
+
+(4) ちょっと待つ
+
+(5) 自分のGitHubページに他人のリポジトリがコピーされている。
+
+上記作業でGitHub上のフォークは完了した。
+あとはcloneGitHubRepository.txtの作業を行えば良い。
+

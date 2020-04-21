@@ -22,3 +22,5 @@ Gitを導入ドキュメント
 
 １０．cloneGitHubRepository.txt
 
+１１．pushGitHubRepository.txt
+

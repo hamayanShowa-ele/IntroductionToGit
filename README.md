@@ -9,3 +9,6 @@ Gitを導入ドキュメント
 ３．letsCommit.txt
 
 ４．backToThePast.txt
+
+５．gitIgnore.txt
+

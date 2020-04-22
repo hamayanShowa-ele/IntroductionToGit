@@ -30,4 +30,6 @@ Gitを導入ドキュメント
 
 １４．testBranchRepository.txt
 
+１５．margeBranchRepository.txt
+
 

@@ -28,4 +28,6 @@ Gitを導入ドキュメント
 
 １３．branchRepository.txt
 
+１４．testBranchRepository.txt
+
 

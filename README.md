@@ -36,3 +36,5 @@ Gitを導入ドキュメント
 
 １７．conflictBranchRepository.txt
 
+１８．pullRequestOnGitHub.txt
+

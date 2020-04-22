@@ -32,4 +32,6 @@ Gitを導入ドキュメント
 
 １５．margeBranchRepository.txt
 
+１６．pullGitHubRepository.txt
+
 

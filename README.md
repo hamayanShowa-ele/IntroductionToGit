@@ -38,3 +38,5 @@ Gitを導入ドキュメント
 
 １８．pullRequestOnGitHub.txt
 
+１９．margePullRequestOnGitHub.txt
+

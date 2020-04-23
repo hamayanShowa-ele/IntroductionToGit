@@ -54,4 +54,6 @@ Gitを導入ドキュメント
 
 ２６．fetchRepository.txt
 
+２７．deleteRemoteBranch.txt
+
 

@@ -52,4 +52,8 @@ Gitを導入ドキュメント
 
 ２５．squashCommit.txt
 
+２６．fetchRepository.txt
+
+２７．deleteRemoteBranch.txt
+
 

@@ -19,3 +19,8 @@ pullRequestOnGitHub.txtで行われた要求を受け取ったらの話になる
 する。
 
 上記作業で、リクエストを要求した側の「Pull requests」タブに「Marged」が表示される。
+
+Marge後、SourceTreeの画面上でmasterブランチにプルリクエストが有る事を示す反転文字
+の数字が付加されている。現行ブランチをmasterブランチに切り替えてプルを行うと、
+プロジェクトフォルダーの中にaddFunctionで追加したfunction1.txtが有る。
+

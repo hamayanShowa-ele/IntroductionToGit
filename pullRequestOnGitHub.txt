@@ -36,7 +36,7 @@ forkGitHubRepository.txtで他人のリポジトリをフォークしてクロ�
 
 マージされたら、GitHubのリポジトリの「Pull requests」のタブで相手からマージされた
 連絡が届く。
-マージされた事でこの要求は閉じられるため、ブラウザを更新すると「Pull eequests」
+マージされた事でこの要求は閉じられるため、ブラウザを更新すると「Pull requests」
 タブの数字は0に戻る。※その前が1であった場合。
 「Pull eequests」のタブを開けば「0 Open 1 Closed」となっている。
 「Closed」をクリックすれば、承認された項目が表示される。

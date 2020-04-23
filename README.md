@@ -44,4 +44,5 @@ Gitを導入ドキュメント
 
 ２１．restartFromPastBranch.txt
 
+２２．revertCommit.txt
 

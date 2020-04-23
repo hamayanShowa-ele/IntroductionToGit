@@ -50,3 +50,6 @@ Gitを導入ドキュメント
 
 ２４．rebaseMasterBranch.txt
 
+２５．squashCommit.txt
+
+

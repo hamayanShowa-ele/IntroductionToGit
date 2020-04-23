@@ -18,4 +18,11 @@ a.out
 # not need logs folder
 logs/
 
-上記の記述で、中間ファイルのa.outとlogsフォルダーをコミットの対象から除外。
+# not need *.obj
+*.obj
+
+# need abcd.hex
+!abcd.hex
+
+上記の記述で、中間ファイルのa.outとobjファイルとlogsフォルダーをコミットの対象から除外。
+abcd.hexは除外しない。

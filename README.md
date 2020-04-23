@@ -46,3 +46,5 @@ Gitを導入ドキュメント
 
 ２２．revertCommit.txt
 
+２３．margeFromMasterBranch.txt
+

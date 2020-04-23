@@ -42,3 +42,6 @@ Gitを導入ドキュメント
 
 ２０．topicBranch.txt
 
+２１．restartFromPastBranch.txt
+
+

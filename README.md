@@ -44,4 +44,12 @@ Gitを導入ドキュメント
 
 ２１．restartFromPastBranch.txt
 
+２２．revertCommit.txt
+
+２３．margeFromMasterBranch.txt
+
+２４．rebaseMasterBranch.txt
+
+２５．squashCommit.txt
+
 

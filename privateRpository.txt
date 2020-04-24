@@ -1,0 +1,13 @@
+プライベートなリポジトリ
+
+(1) 作成したリポジトリで「Setting」タブをクリックし、一番下のDanger Zoneに進む。
+
+(2) 「Make this repository public」か、「Make this repository private」のどちらか
+になっているので、好きな方を選ぶ。途中認証が有る。
+
+(3) コラボレートするメンバーを招待する。
+以下の説明を参照
+
+https://help.github.com/ja/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository
+
+

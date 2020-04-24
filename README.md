@@ -1,5 +1,8 @@
 Gitを導入ドキュメント
 
+GitHub ヘルプ
+https://help.github.com/ja
+
 ドキュメント追加順
 
 １．IntroduceOfGit.txt : 忙しい人のGit入門

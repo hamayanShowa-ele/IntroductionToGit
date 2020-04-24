@@ -66,4 +66,5 @@ Gitを導入ドキュメント
 
 ３２．tagOnCommit.txt : コミットにタグを付ける(タグ)
 
+３３．detachedHEAD.txt : 間違えてHEADに直接コミットしてしまう(detached HEAD状態)
 

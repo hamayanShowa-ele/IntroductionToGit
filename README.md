@@ -58,3 +58,4 @@ Gitを導入ドキュメント
 
 ２８．repairNearlyCommitMessage.txt : 直前のコミットに付けた説明文を直したい
 
+２９．stashFiles.txt : 未コミットファイルを一時的にコミット対象から除きたい(スタッシュ)

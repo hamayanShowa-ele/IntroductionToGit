@@ -59,3 +59,9 @@ Gitを導入ドキュメント
 ２８．repairNearlyCommitMessage.txt : 直前のコミットに付けた説明文を直したい
 
 ２９．stashFiles.txt : 未コミットファイルを一時的にコミット対象から除きたい(スタッシュ)
+
+３０．commandLine.txt : コマンドライン(ターミナル)の起動
+
+３１．cherryPick.txt : 別のブランチから特定のコミットを取り込む(チェリーピック)
+
+

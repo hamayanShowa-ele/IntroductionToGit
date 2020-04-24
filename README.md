@@ -2,59 +2,59 @@ Gitを導入ドキュメント
 
 ドキュメント追加順
 
-１．IntroduceOfGit.txt
+１．IntroduceOfGit.txt : 忙しい人のGit入門
 
-２．letsMakeRepository.txt
+２．letsMakeRepository.txt : リポジトリを作る
 
-３．letsCommit.txt
+３．letsCommit.txt : コミットする
 
-４．backToThePast.txt
+４．backToThePast.txt : 過去に戻る。未来に行く、、、行かない
 
-５．gitIgnore.txt
+５．gitIgnore.txt : コミットしたくないファイル、フォルダー
 
-６．usingAnyAcounts.txt
+６．usingAnyAcounts.txt : 複数GitHubアカウントを使い分ける
 
-７．gitHubAccount.txt
+７．gitHubAccount.txt : GitHubアカウントを作る
 
-８．makeGitHubRepository.txt
+８．makeGitHubRepository.txt : GitHubリポジトリを作る
 
-９．deleteGitHubRepository.txt
+９．deleteGitHubRepository.txt : GitHubリポジトリを削除する
 
-１０．cloneGitHubRepository.txt
+１０．cloneGitHubRepository.txt : 作ったGitHubリポジトリをクローンする
 
-１１．pushGitHubRepository.txt
+１１．pushGitHubRepository.txt : 変更、追加内容をGitHubリポジトリにプッシュする
 
-１２．forkGitHubRepository.txt
+１２．forkGitHubRepository.txt : 他人のGitHubリポジトリをフォークしてクローン
 
-１３．branchRepository.txt
+１３．branchRepository.txt : リポジトリをブランチ
 
-１４．testBranchRepository.txt
+１４．testBranchRepository.txt : リポジトリのブランチのテスト
 
-１５．margeBranchRepository.txt
+１５．margeBranchRepository.txt : リポジトリのブランチのマージ
 
-１６．pullGitHubRepository.txt
+１６．pullGitHubRepository.txt : GitHubリポジトリで行われた変更、追加内容をローカルにプルする
 
-１７．conflictBranchRepository.txt
+１７．conflictBranchRepository.txt : ブランチのマージ時の衝突(コンフリクト)の解決
 
-１８．pullRequestOnGitHub.txt
+１８．pullRequestOnGitHub.txt : 変更、追加を終えたらプルリクエスト
 
-１９．margePullRequestOnGitHub.txt
+１９．margePullRequestOnGitHub.txt : プルリクエストを受け取ったら
 
-２０．topicBranch.txt
+２０．topicBranch.txt : GitHub Flow
 
-２１．restartFromPastBranch.txt
+２１．restartFromPastBranch.txt : 過去に戻って別のブランチを生成する
 
-２２．revertCommit.txt
+２２．revertCommit.txt : 過去のコミットを打ち消したい(リバート)
 
-２３．margeFromMasterBranch.txt
+２３．margeFromMasterBranch.txt : topicブランチにmasterブランチの変更内容をマージ
 
-２４．rebaseMasterBranch.txt
+２４．rebaseMasterBranch.txt : topicブランチをmasterブランチに付け替え(リベース)
 
-２５．squashCommit.txt
+２５．squashCommit.txt : 複数のコミットを一つにまとめる(スカッシュ)
 
-２６．fetchRepository.txt
+２６．fetchRepository.txt : リモートリポジトリの最新状態を獲得(フェッチ)
 
-２７．deleteRemoteBranch.txt
+２７．deleteRemoteBranch.txt : 不要になったリモートブランチを削除する
 
-２８．repairNearlyCommitMessage.txt
+２８．repairNearlyCommitMessage.txt : 直前のコミットに付けた説明文を直したい
 

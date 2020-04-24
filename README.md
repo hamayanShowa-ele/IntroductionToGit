@@ -56,4 +56,5 @@ Gitを導入ドキュメント
 
 ２７．deleteRemoteBranch.txt
 
+２８．repairNearlyCommitMessage.txt
 

@@ -71,3 +71,4 @@ https://help.github.com/ja
 
 ３３．detachedHEAD.txt : 間違えてHEADに直接コミットしてしまう(detached HEAD状態)
 
+３４．privateRpository.txt : プライベートなリポジトリ
